@@ -10,6 +10,6 @@ namespace EmotionPlatzi.Models
     {
         public int Id { get; set; }
         public string WelcomeMessage { get; set; }
-        public string FooterMessage { get; set; } = "Footer by Rubén Melo";
+        public string FooterMessage { get; set; } = "Footer by Rubén Melo C";
     }
 }
